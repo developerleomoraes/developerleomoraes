@@ -1,9 +1,9 @@
 ## Olá! Eu sou Leonardo Moraes!
 
-- ✔ Atualmente trabalho como arquiteto mas estou migrando para tecnologia
-- ✔ Estudante de Ciência da Computação - PUC Minas - 2º Período
-- ✔ Estudando C e Python
-- ✔ Procurando por uma primeira oportunidade
+-  Atualmente trabalho como arquiteto mas estou migrando para tecnologia
+-  Estudante de Ciência da Computação - PUC Minas - 2º Período
+-  Estudando C e Python
+-  Procurando por uma primeira oportunidade
 
 <div>
   <a href="https://github.com/developerleomoraes">
