@@ -1,7 +1,7 @@
 ## Olá! Eu sou Leonardo Moraes!
 
--  Atualmente trabalho como arquiteto mas estou migrando para tecnologia
--  Estudante de Ciência da Computação - PUC Minas - 2º Período
+-  Atualmente trabalho como arquiteto mas quero migrar para tecnologia
+-  Estudante de Ciência da Computação - PUC Minas - 3º Período
 -  Estudando C e Python
 -  Procurando por uma primeira oportunidade
 
