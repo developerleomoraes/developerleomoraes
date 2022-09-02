@@ -1,6 +1,6 @@
 ## Olá! Eu sou Leonardo Moraes!
 
--  Currently working as an architect but with the dream of working with technology
+-  Currently working as an architect but, with the dream of working with technology
 -  Studying Computer Science - PUC Minas - 3º Período
 -  Studiyng Python (Machine Learning and Data Science) and MySQL
 -  Looking for my first opportunity
