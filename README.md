@@ -1,4 +1,4 @@
-## Olá! Eu sou Leonardo Moraes!
+## Hello! l´m Leonardo Moraes!
 
 -  Currently working as an architect but, with the dream of working with technology
 -  Studying Computer Science - PUC Minas - 3º Período
