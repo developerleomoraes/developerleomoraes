@@ -2,14 +2,14 @@
 
 -  Currently working as an architect but, with the dream of working with technology
 -  Studying Computer Science - PUC Minas - 3º Período
--  Studying HTML, CSS, Python (Django) and MySQL
+-  Studying HTML, CSS, Java Script, Python and MySQL
 -  Looking for my first opportunity
 
 <div>
   <a href="https://github.com/developerleomoraes">
   <img height="180em" width="350em" 
        src="https://github-readme-stats.vercel.app/api?username=developerleomoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" 
+  <img height="180em" width="350em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerleomoraes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
