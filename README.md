@@ -3,7 +3,7 @@
 -  Currently working as an architect but, with the dream of working with technology
 -  Studying Computer Science - PUC Minas - 3º Período
 -  Studying HTML, CSS, Java Script, Python and MySQL
--  Looking for my first opportunity
+-  Currently working as a tech assistant and looking for an opportunity as a front-end developer!
 
 <div>
   <a href="https://github.com/developerleomoraes">
