@@ -1,7 +1,7 @@
 ## Hey! l´m Leonardo Moraes!
 
--  Studying Computer Science - PUC Minas - 3º Período
--  Studying HTML, CSS, Java Script, Python and MySQL
+-  Studying Computer Science - PUC Minas - 4º Período
+-  Studying HTML, CSS, JavaScript. 
 -  Currently working as a tech assistant and looking for an opportunity as a front-end developer!
 
 <div>
