@@ -1,8 +1,8 @@
-## Hey! l´m Leonardo Moraes!
+## Hey, l´m Leo Moraes! Welcome to my profile! 
 
--  Studying Computer Science - PUC Minas - 4º Período
--  Studying HTML, CSS, JavaScript. 
--  Currently working as a tech assistant and looking for an opportunity as a front-end developer!
+-  :computer: **Computer Science Student [4/8]** - [_PUC Minas_](https://www.pucpcaldas.br/)
+-  :page_facing_up: **Studying Web development HTML, CSS, JavaScript.** 
+-  :mag: **Currently working as a tech assistant and looking for an opportunity as a front-end developer!**
 
 <div>
   <a href="https://github.com/developerleomoraes">
