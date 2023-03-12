@@ -4,10 +4,10 @@
 
 -  :computer: **Computer Science Student [4/8]** - [_PUC Minas_](https://www.pucpcaldas.br/)
 -  :page_facing_up: **Studying Web development:**
-        - HTML
-        - CSS
-        - JavaScript
-        - React
+    - HTML
+    - CSS
+    - JavaScript
+    - React
 -  :mag: **Currently working as a tech assistant and looking for an opportunity as a front-end developer!**
 -  :round_pushpin: **Aiming to become a fullstack developer**
 
@@ -28,9 +28,9 @@
 
 <div>
   <a href="https://github.com/developerleomoraes">
-  <img height="180em" width="350em" 
+  <img height="190em" width="320em" 
        src="https://github-readme-stats.vercel.app/api?username=developerleomoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="350em" 
+  <img height="190em" width="288em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerleomoraes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
