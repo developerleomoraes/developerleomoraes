@@ -9,6 +9,7 @@
         - JavaScript
         - React
 -  :mag: **Currently working as a tech assistant and looking for an opportunity as a front-end developer!**
+-  :round_pushpin: **Aiming to become a fullstack developer**
 
 ## Technologies
 
