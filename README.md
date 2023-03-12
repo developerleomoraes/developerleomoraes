@@ -3,7 +3,11 @@
 <img align="right" alt="Leo-pic" height="135" width="135" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/952690717468262510/952690990475530331/icon_leo_gif.gif">
 
 -  :computer: **Computer Science Student [4/8]** - [_PUC Minas_](https://www.pucpcaldas.br/)
--  :page_facing_up: **Studying Web development HTML, CSS, JavaScript.** 
+-  :page_facing_up: **Studying Web development:**
+        - HTML
+        - CSS
+        - JavaScript
+        - React
 -  :mag: **Currently working as a tech assistant and looking for an opportunity as a front-end developer!**
 
 ## Technologies
