@@ -7,7 +7,7 @@
     - Python
     - Node Js
     - Typescript
--  :mag: **Currently working as a tech assistant and looking for an opportunity as a front-end developer!**
+-  :mag: **Update soon**
 -  :round_pushpin: **Aiming to become a fullstack developer**
 
 ## Technologies
