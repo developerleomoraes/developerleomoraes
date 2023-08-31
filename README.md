@@ -2,7 +2,7 @@
 
 <img align="right" alt="Leo-pic" height="135" width="135" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/952690717468262510/952690990475530331/icon_leo_gif.gif">
 
--  :computer: **Computer Science Student [4/8]** - [_PUC Minas_](https://www.pucpcaldas.br/)
+-  :computer: **Computer Science Student [5/8]** - [_PUC Minas_](https://www.pucpcaldas.br/)
 -  :page_facing_up: **Back-End Developer**
     - Python
     - Node Js
