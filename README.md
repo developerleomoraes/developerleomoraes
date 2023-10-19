@@ -7,8 +7,9 @@
     - Python
     - Node Js
     - Typescript
+    - MySQL
 -  :mag: **Update soon**
--  :round_pushpin: **Aiming to become a fullstack developer**
+
 
 ## Technologies
 
