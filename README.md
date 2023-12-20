@@ -7,7 +7,7 @@
     - Python
     - Node Js
     - Typescript
-    - MySQL
+    - SQL
 -  :mag: **Update soon**
 
 
