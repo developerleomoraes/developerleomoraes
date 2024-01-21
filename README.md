@@ -31,7 +31,7 @@
 
 <div>
   <a href="https://github.com/developerleomoraes">
-  <img height="190em" width="420em" 
+  <img height="190em" width="320em" 
        src="https://github-readme-stats.vercel.app/api?username=developerleomoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" width="320em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerleomoraes&layout=compact&langs_count=7&theme=dark"/>
