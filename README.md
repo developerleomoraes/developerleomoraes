@@ -1,17 +1,22 @@
-## Hey, l´m Leo Moraes! Welcome to my profile! 
-
-<img align="right" alt="Leo-pic" height="135" width="135" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/952690717468262510/952690990475530331/icon_leo_gif.gif">
-
--  :computer: **Computer Science Student [5/8]** - [_PUC Minas_](https://www.pucpcaldas.br/)
--  :page_facing_up: **Back-End Developer**
-    - Python
-    - Node Js
-    - Typescript
-    - SQL
--  :mag: **Update soon**
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0D4074?=flat-circle&labelColor=black&logo=linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/developerleomoraes/)](https://www.linkedin.com/in/developerleoit/)
+[![Email Badge](https://img.shields.io/badge/E-mail-mail?link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F2%2F%23inbox)](https://mail.google.com/mail/u/2/#inbox?compose=DmwnWtDtZdmVKMxwMWvwdVhVDDZxNggdNqjswpfJgSNbqcGGHWgwrkzlSVfDXQvxksHfLpclZFBB)
 
 
-## Technologies
+
+## Hey, l´m Leo Moraes, Back-End Developer! Welcome to my profile! 
+
+<img align="right" alt="Leo-pic" height="80" width="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/952690717468262510/952690990475530331/icon_leo_gif.gif">
+
+-  👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://computacao.pucpcaldas.br/)
+-  💻 **Back-End Developer** at [Cenergel_Electrical Systems](https://www.cenergel.com.br)
+      - 🔎 *More info* [Linkedin](https://www.linkedin.com/in/developerleoit/)
+-  🎥 **Movies Fan**
+-  ⚽ **Sports Fan**
+
+<br>
+
+
+## Technologies 💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,11 +32,17 @@
 
 <br>
 
+## PORTFOLIO - Back-End Developer
+[Soon](https://github.com/developerleomoraes)
+
+<br>
+
+
 ## Projects
 
 <div>
   <a href="https://github.com/developerleomoraes">
-  <img height="190em" width="320em" 
+  <img height="190em" width="420em" 
        src="https://github-readme-stats.vercel.app/api?username=developerleomoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" width="320em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerleomoraes&layout=compact&langs_count=7&theme=dark"/>
@@ -39,11 +50,51 @@
 
 <br>
 
+<details>
+<summary>
+ <strong>College</strong>
+</summary>
+
+  - C Language:
+    - [Operational System | Pipes - Thread](https://github.com/developerleomoraes)
+    - [Soon](https://github.com/developerleomoraes)
+    - [Soon](https://github.com/developerleomoraes)
+  - Python:
+    - [Soon](https://github.com/developerleomoraes)
+    - [Soon](https://github.com/developerleomoraes)
+  - SQL:
+    - [Soon](https://github.com/developerleomoraes)
+  - Java:
+    - [Soon](https://github.com/developerleomoraes)
+
+    </details>
+
+
+
+<details>
+<summary>
+<strong>Learning and personal projects</strong>
+</summary>
+
+- Back-End Projects:
+  - [Soon](https://github.com/developerleomoraes)
+- Node.js | Typescript:
+  - [Soon](https://github.com/developerleomoraes)
+- React-Native:
+  - [Soon](https://github.com/developerleomoraes)
+- Web Projects:
+  - HTML5 | CSS3 | Javascript
+    - [Soon](https://github.com/developerleomoraes)
+- Python:
+  - [Soon](https://github.com/developerleomoraes)
+</details>
+ 
+<br>
+
+
 ## Contact
   
 <div> 
   <a href = "mailto:devraccoonleo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/developerleoit/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
 </div>
