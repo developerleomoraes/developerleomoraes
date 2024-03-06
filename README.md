@@ -56,16 +56,16 @@
 </summary>
 
   - C Language:
-    - [Operational System | Pipes - Thread](https://github.com/developerleomoraes)
+    - [Operational System | Pipes - Thread](https://github.com/developerleomoraes/college_algorithms_project)
     - [Soon](https://github.com/developerleomoraes)
     - [Soon](https://github.com/developerleomoraes)
   - Python:
     - [Soon](https://github.com/developerleomoraes)
     - [Soon](https://github.com/developerleomoraes)
   - SQL:
-    - [Soon](https://github.com/developerleomoraes)
+    - [Database Project](https://github.com/developerleomoraes/database_project_sql)
   - Java:
-    - [Soon](https://github.com/developerleomoraes)
+    - [Mobile Projects](https://github.com/developerleomoraes/mobile_college_projects)
 
     </details>
 
@@ -77,7 +77,8 @@
 </summary>
 
 - Back-End Projects:
-  - [Soon](https://github.com/developerleomoraes)
+  - [Webscraping](https://github.com/developerleomoraes/webscraping_furnas)
+  - [Server](https://github.com/developerleomoraes/Python_Server)
 - Node.js | Typescript:
   - [Soon](https://github.com/developerleomoraes)
 - React-Native:
@@ -86,7 +87,7 @@
   - HTML5 | CSS3 | Javascript
     - [Soon](https://github.com/developerleomoraes)
 - Python:
-  - [Soon](https://github.com/developerleomoraes)
+  - [Studyies](https://github.com/developerleomoraes/learning_python)
 </details>
  
 <br>
