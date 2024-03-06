@@ -57,7 +57,7 @@
 
   - C Language:
     - [Operational System | Pipes - Thread](https://github.com/developerleomoraes/college_algorithms_project)
-    - [Soon](https://github.com/developerleomoraes)
+    - [Compiler](https://github.com/developerleomoraes/college_compiler)
     - [Soon](https://github.com/developerleomoraes)
   - Python:
     - [Soon](https://github.com/developerleomoraes)
@@ -80,8 +80,6 @@
   - [Webscraping](https://github.com/developerleomoraes/webscraping_furnas)
   - [Server](https://github.com/developerleomoraes/Python_Server)
 - Node.js | Typescript:
-  - [Soon](https://github.com/developerleomoraes)
-- React-Native:
   - [Soon](https://github.com/developerleomoraes)
 - Web Projects:
   - HTML5 | CSS3 | Javascript
