@@ -60,7 +60,7 @@
     - [Compiler](https://github.com/developerleomoraes/college_compiler)
     - [Soon](https://github.com/developerleomoraes)
   - Python:
-    - [Soon](https://github.com/developerleomoraes)
+    - [Data Science](https://github.com/developerleomoraes/College_Data-_Science)
     - [Soon](https://github.com/developerleomoraes)
   - SQL:
     - [Database Project](https://github.com/developerleomoraes/database_project_sql)
