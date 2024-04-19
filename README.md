@@ -3,7 +3,7 @@
 
 
 
-## Hey, l´m Leo Moraes, Back-End Developer! Welcome to my profile! 
+## Hey, l´m Leo Moraes, Data Engineer! Welcome to my profile! 
 
 <img align="right" alt="Leo-pic" height="80" width="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/952690717468262510/952690990475530331/icon_leo_gif.gif">
 
