@@ -8,7 +8,7 @@
 <img align="right" alt="Leo-pic" height="80" width="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/952690717468262510/952690990475530331/icon_leo_gif.gif">
 
 -  👨🏻‍💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://computacao.pucpcaldas.br/)
--  💻 **Back-End Developer** at [Cenergel_Electrical Systems](https://www.cenergel.com.br)
+-  💻 **Data Engineer** at [4Data Driven](https://www.4datadriven.com.br)
       - 🔎 *More info* [Linkedin](https://www.linkedin.com/in/developerleoit/)
 -  🎥 **Movies Fan**
 -  ⚽ **Sports Fan**
@@ -34,7 +34,7 @@
 
 <br>
 
-## PORTFOLIO - Back-End Developer
+## PORTFOLIO - Data Engineer
 [Soon](https://github.com/developerleomoraes)
 
 <br>
